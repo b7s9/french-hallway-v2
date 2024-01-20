@@ -1,5 +1,4 @@
 ---
-layout: blog
 title: Testing Post
 description: no description yet
 pubDate: Jan 01 2024
