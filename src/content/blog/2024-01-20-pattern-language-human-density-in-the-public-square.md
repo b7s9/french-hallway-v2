@@ -2,7 +2,6 @@
 title: "Pattern 123: Pedestrian Density"
 description: Description in progress
 pubDate: Jan 11 2024
-heroImage: https://preeminent-cranachan-36e5df.netlify.app/blog-placeholder-3.jpg
 ---
 ### From the Book
 
@@ -14,7 +13,7 @@ Depending on the scenario, the architect may want a more lively or dead space. B
 
 ### Applied to Software Design
 
-The most apparent example that springs to mind is the design density of a social media feed, for instance Mastadon or micro.blog. We could measure density in a few ways:
+The most apparent example that springs to mind is the design density of a social media feed, for instance Mastodon or micro.blog. We could measure density in a few ways:
 
 1. posts per hour (concept)
 2. posts per viewport height (literal)
