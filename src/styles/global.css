@@ -54,17 +54,17 @@
 
 @font-face {
 	font-family: 'Sentient';
-	src: url('/fonts/Sentient-Regular.woff') format('woff'),
-	url('/fonts/Sentient-Regular.woff2') format('woff2');
-	font-weight: 400;
+	src: url('/fonts/Sentient-Light.woff') format('woff'),
+	url('/fonts/Sentient-Light.woff2') format('woff2');
+	font-weight: 300;
 	font-style: normal;
 	font-display: swap;
 }
 @font-face {
 	font-family: 'Sentient';
-	src: url('/fonts/Sentient-Italic.woff') format('woff'),
-	url('/fonts/Sentient-Italic.woff2') format('woff2');
-	font-weight: 400;
+	src: url('/fonts/Sentient-LightItalic.woff') format('woff'),
+	url('/fonts/Sentient-LightItalic.woff2') format('woff2');
+	font-weight: 300;
 	font-style: italic;
 	font-display: swap;
 }

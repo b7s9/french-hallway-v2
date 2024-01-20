@@ -49,11 +49,16 @@ import { SITE_TITLE } from "../consts";
     color: var(--sand);
     border-bottom: 4px solid transparent;
     text-decoration: none;
+    transition: opacity ease-in-out 120ms;
   }
 
   nav a.active {
     text-decoration: none;
     border-bottom-color: var(--accent);
+  }
+
+  nav a:hover {
+    opacity: 0.77;
   }
 
   hr {
