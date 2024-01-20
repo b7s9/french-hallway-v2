@@ -1,11 +1,9 @@
 ---
-title: "Pattern 123: Human Density in the Public Square"
+title: "Pattern 123: Pedestrian Density"
 description: Description in progress
 pubDate: Jan 11 2024
 heroImage: https://preeminent-cranachan-36e5df.netlify.app/blog-placeholder-3.jpg
 ---
-## Pattern no. 123: Pedestrian Density
-
 ### From the Book
 
 > Many of our modern public squares, though intended as lively plazas, are in fact deserted and dead.

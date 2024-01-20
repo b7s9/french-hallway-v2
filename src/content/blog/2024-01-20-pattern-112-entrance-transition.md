@@ -1,8 +1,8 @@
 ---
-layout: blog
 title: "Pattern 112: Entrance Transition"
 description: How to design an entrance, which bring users more gently into your space
-pubDate: Jan 20 242024
+pubDate: Jan 20 2024
+heroImage: https://preeminent-cranachan-36e5df.netlify.app/blog-placeholder-1.jpg
 ---
 ## From the Book
 
