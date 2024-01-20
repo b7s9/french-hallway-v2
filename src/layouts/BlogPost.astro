@@ -33,7 +33,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
         max-width: calc(100% - 1em);
         margin: auto;
         padding: 1em;
-        color: var(--white-90);
+        color: var(--white-80);
       }
       .title {
         margin-bottom: 32px;
@@ -43,6 +43,15 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
       .title h1 {
         font-size: 26px;
         margin: 0;
+      }
+
+      .post-link {
+        font-size: 16px;
+        line-height: normal;
+      }
+
+      .post-link:hover {
+        opacity: 0.77;
       }
 
       @media screen and (min-width: 540px) {
@@ -97,6 +106,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
             <hr />
           </div>
           <slot />
+          <a class="post-link" href={Astro.url}>Link to this post</a>
         </div>
       </article>
     </main>
