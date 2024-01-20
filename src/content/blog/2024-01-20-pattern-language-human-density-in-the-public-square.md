@@ -1,6 +1,7 @@
 ---
 title: "Pattern 123: Pedestrian Density"
-description: Description in progress
+description: How to measure the liveliness of a pedestrian plaza, and its
+  application to social media apps.
 pubDate: Jan 11 2024
 heroImage: https://preeminent-cranachan-36e5df.netlify.app/blog-placeholder-3.jpg
 ---
