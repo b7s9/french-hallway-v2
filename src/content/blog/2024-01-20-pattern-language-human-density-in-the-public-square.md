@@ -1,8 +1,8 @@
 ---
-layout: blog
 title: "Pattern Language: Human Density in the Public Square"
-date: 2024-01-20T08:21:18.015Z
-thumbnail: https://preeminent-cranachan-36e5df.netlify.app/blog-placeholder-3.jpg
+description: Description in progress
+pubDate: 'Jan 11 2024'
+heroImage: https://preeminent-cranachan-36e5df.netlify.app/blog-placeholder-3.jpg
 ---
 ## Pattern no. XX
 
