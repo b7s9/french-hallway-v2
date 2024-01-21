@@ -11,4 +11,10 @@ Displaying a lot of information in a content discovery use case (eg. Browse, Sea
 * C = Category. Sibling relationships
 * H = Hierarchy. Parent child relationships
 
+## Location
+
+Geographic Information tends to be most useful in products with a massive amount of data, eg. browsing new albums by city on Bandcamp
+
+...or where the use case is specifically about physical movement or location, eg. Google maps
+
 [Medium Article explaining the LATCH concept in greater detail](https://uxmovement.com/navigation/how-to-design-content-filters-for-better-user-browsing/)
