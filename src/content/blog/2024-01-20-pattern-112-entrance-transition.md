@@ -23,15 +23,27 @@ The login screen is not the Main Entrance (110). The role here is to transition 
 
 I have observed SaaS products taking a few different approaches to login screens. The first is to have a simple UX for a moment of calm/focus, to get you through the login UX as fast and easily as possible. In that case, screen should feel invisible. The second is to agitate the user slightly by displaying an attractive window into what you're about to get access to. The goal in the agitation use case is to generate excitement and inertia, which may be necessary to get the user through discovery loops or waiting times in the product before they can reach value (eg. finding something to watch, waiting for a game to load).
 
+## Use Case 1: Simplicity / Tranquility
+
 Let's start with the tranquil/simple use case. Here is Gmail, which is actually not the simplest layout in my collection, but at least trims big navigation elements and marketing
 
 ![Gmail login](public/gmail-login.png)
 
 Out of the screens in this post, I think Dovetail has the most tranquil login screen. Could be the color scheme and typography combo, and comfortable use of space. Dovetail seems to have design principles intended to make the product feel like a playful garden, despite the high user effort required to get value (ie. doing your UX research properly). 
 
-![](public/dovetail-login.png)
+![Dovetail login](public/dovetail-login.png)
 
+## Use Case 2: User Agitation
 
+This has become a trend among video streaming services like Disney+ and Netflix shown below. The idea here is to show the user all the possibilities they're about to gain access to, in hopes of creating inertia through the content discovery loop, or perhaps to create the sense that the user is gaining value just by having access, even if they don't consume any content.
+
+![netflix login](public/netflix-login.jpg)
+
+Gaming uses a similar concept, to generate inertia through potentially long loading screens. I'll do another post at some point about waiting room design. Here is Minecraft:
+
+![Minecraft login](public/minecraft-login.jpg)
+
+## Other
 
 This one seems to break the patterns I've seen in my limited research thus far. An interesting example is Hotjar's login screen which displays event or product marketing on the right hand side. It may be an effective means of lead generation, but may detract from the efficacy of the transition, thus potentially cheapening the feeling that this is a high quality product. There is simplicity from the removal of large navigational elements, but the split attention vibes from this don't make it feel particularly tranquil to me.
 
