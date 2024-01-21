@@ -17,18 +17,18 @@ Displaying a lot of information in a content discovery use case (eg. Browse, Sea
 
 Geographic Information tends to be most useful in products with a massive amount of data, eg. browsing new albums by city on Bandcamp
 
-![Bandcamp new music feed filtered by city](images/bandcamp-filter-location.jpg)
+![Bandcamp new music feed filtered by city](/images/bandcamp-filter-location.jpg)
 
 ...or where the use case is specifically about physical movement or location, eg. Google maps
 
-![Google's interactive map](images/google-maps-filter-location.jpg)
+![Google's interactive map](/images/google-maps-filter-location.jpg)
 
 ## Category
 
 This refers to a peer category system such as "categories", typically more rigid, and defined by the product designer
 
-![MetaFilter categories](public/metafilter-categories.png)
+![MetaFilter categories](/images/metafilter-categories.png)
 
 ...or tags, which are typically more free-form, and may be defined by the user/content author.
 
-![MetaFilter popular tags cloud](public/metafilter-popular-tags.png)
+![MetaFilter popular tags cloud](/images/metafilter-popular-tags.png)
