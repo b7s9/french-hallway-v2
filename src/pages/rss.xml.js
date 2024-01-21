@@ -8,9 +8,11 @@ export async function GET(context) {
 		title: SITE_TITLE,
 		description: SITE_DESCRIPTION,
 		site: context.site,
+		customData: `<icon>${context.site}/favicon.ico</icon>
+		<logo>${context.site}/images/site-logo.png</logo>`,
 		items: posts.map((post) => ({
 			...post.data,
-			link: `/blog/${post.slug}/`,
+			link: `${context.site}/blog/${post.slug}/`,
 		})),
 	});
 }
