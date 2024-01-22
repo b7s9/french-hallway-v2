@@ -3,7 +3,7 @@ backend:
   branch: main # Branch to update (optional; defaults to master)# This line should *not* be indented
 publish_mode: editorial_workflow
 media_folder: "public/images" # Media files will be stored in the repo under
-public_folder: "public/"
+public_folder: "/images"
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
