@@ -75,3 +75,12 @@ const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
+
+<script>
+  import mixpanel from "mixpanel-browser";
+  mixpanel.init("a99b62e67252a05572459a870e8b8337", {
+    debug: true,
+    track_pageview: true,
+    persistence: "localStorage",
+  });
+</script>
