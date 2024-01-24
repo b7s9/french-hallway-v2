@@ -19,6 +19,14 @@ A common set of use errors might be:
 
 ## Examples
 
+### Skill
+
+The easiest place to find skill use error on the web is in tiny mobile nav buttons that take a few tries to click, or are too far out of reach on giant modern phones.
+
+![](/images/buddy-ios-14.png)
+
+For instance, consider the cog menu button at the top right which would be laughably out of reach for right handed users on any device larger than an iphone 5. Hopefully it doesn't serve a critical function such that a user would regularly want to click on it.
+
 ### Rule
 
 The following example from Cake Equity is a pattern that I like in physical products like hardware synthesizers, but doesn't feel intuitive in a digital UI setting. The pattern that I and most users are accustomed to is that a switch on a website represents a single idea as being on or off. The "Simulate conversion" switch tries to represent two mutually exclusive ideas, but the visual representation communicates on or off. 
@@ -28,8 +36,6 @@ The following example from Cake Equity is a pattern that I like in physical prod
 In contrast, I think Mixpanel handles this better with its segmented controllers
 
 ![Mixpanel segmented controller](/images/screen-shot-2024-01-23-at-21.40.52.png)
-
-
 
 ## Visibility of the Designer's Labor
 
