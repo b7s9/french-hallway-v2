@@ -23,9 +23,9 @@ A common set of use errors might be:
 
 The easiest place to find skill use error on the web is in tiny mobile nav buttons that take a few tries to click, or are too far out of reach on giant modern phones.
 
-![](/images/buddy-ios-14.png)
+For instance, consider the cog menu button at the top right of this app, which would be laughably out of reach for right handed users on any device larger than an iphone 5. Hopefully it doesn't serve a critical function such that a user would regularly want to click on it.
 
-For instance, consider the cog menu button at the top right which would be laughably out of reach for right handed users on any device larger than an iphone 5. Hopefully it doesn't serve a critical function such that a user would regularly want to click on it.
+![](/images/buddy-ios-14.png)
 
 ### Rule
 
