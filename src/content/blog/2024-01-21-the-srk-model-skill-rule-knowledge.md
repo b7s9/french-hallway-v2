@@ -19,7 +19,17 @@ A common set of use errors might be:
 
 ## Examples
 
-to be filled out once I am at my work computer with acess to my design examples library
+### Rule
+
+The following example from Cake Equity is a pattern that I like in physical products like hardware synthesizers, but doesn't feel intuitive in a digital UI setting. The pattern that I and most users are accustomed to is that a switch on a website represents a single idea as being on or off. The "Simulate conversion" switch tries to represent two mutually exclusive ideas, but the visual representation communicates on or off. 
+
+![Cake Equity Two way labeled Switches](/images/cake-equity-web-285.png)
+
+In contrast, I think Mixpanel handles this better with its segmented controllers
+
+![Mixpanel segmented controller](/images/screen-shot-2024-01-23-at-21.40.52.png)
+
+
 
 ## Visibility of the Designer's Labor
 
@@ -28,4 +38,3 @@ Design for Skill use error, eg. the size, color, or distance between buttons is 
 A designer's work to create designs for Rule or Knowledge use error is less visible in the user interface. These require more research and stakeholder discussions. Outputs of the designer's labor here is mostly in system design documents not consumed by anyone other than key stakeholders and engineers. 
 
 It is typical in online forum discussions, to see people intuitively distinguish UI Designers (making shiny buttons) from UX Designers (making systems), perhaps with a tone of defensiveness on the part of UX Designers.
-
