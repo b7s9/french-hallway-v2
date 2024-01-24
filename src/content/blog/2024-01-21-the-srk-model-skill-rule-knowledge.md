@@ -43,9 +43,9 @@ The first pattern that comes to mind is an onboarding tutorial. These get a lot 
 
 Let's say you are making a product that a hospital has just purchased for all of their physicians. Immediately you have a knowledge gap. If you present this system to the physicians with no context about what problems it can solve, they will have no desire to even try to learn the system's rules.
 
-I'm sure I could find better, but for a quick example I think this is good. If you've never heard anything about what this company or what the product does, you can easily intuit on this initial screen what you can do with it.
+There are probably better examples than this, but this screen does a decent job showing you what you could do with this product. They assume you would know why you'd want to do any of these tasks. Aside: I think gamification falls a little flat in a context like this because it's not realistic that users want to use all of your features right out of the gate. I think you should let them play with the thing they care about, and if they're ignoring part of your product, remind them after a few weeks to see if they're intentionally ignoring it.
 
-![](/images/user-interviews-web-12.png)
+![](/images/june-web-10.png)
 
 ## Visibility of the Designer's Labor
 
