@@ -33,9 +33,19 @@ The following example from Cake Equity is a pattern that I like in physical prod
 
 ![Cake Equity Two way labeled Switches](/images/cake-equity-web-285.png)
 
-In contrast, I think Mixpanel handles this better with its segmented controllers
+In contrast, I think Mixpanel handles this better with its segmented controllers (ie. toggles)
 
 ![Mixpanel segmented controller](/images/screen-shot-2024-01-23-at-21.40.52.png)
+
+### Knowledge
+
+The first pattern that comes to mind is an onboarding tutorial. These get a lot of hate because I don't think they are often matched properly for the audience and use case. If you have a really complicated system, it may be valuable to teach the *rules* of your system to a user who needs it to get value out of it. However, I think most web SaaS products are not so complicated that we need to teach users the rules. More often we just need to inform them what they could do with our product, and let them figure out the rules based on the UI (or they can request a more targeted tutorial once they get there). 
+
+Let's say you are making a product that a hospital has just purchased for all of their physicians. Immediately you have a knowledge gap. If you present this system to the physicians with no context about what problems it can solve, they will have no desire to even try to learn the system's rules.
+
+I'm sure I could find better, but for a quick example I think this is good. If you've never heard anything about what this company or what the product does, you can easily intuit on this initial screen what you can do with it.
+
+![](/images/user-interviews-web-12.png)
 
 ## Visibility of the Designer's Labor
 
