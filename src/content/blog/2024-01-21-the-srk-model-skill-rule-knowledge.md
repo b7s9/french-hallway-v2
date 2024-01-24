@@ -23,7 +23,7 @@ A common set of use errors might be:
 
 The easiest place to find skill use error on the web is in tiny mobile nav buttons that take a few tries to click, or are too far out of reach on giant modern phones.
 
-For instance, consider the cog menu button at the top right of this app, which would be laughably out of reach for right handed users on any device larger than an iphone 5. Hopefully it doesn't serve a critical function such that a user would regularly want to click on it.
+For instance, consider the cog menu button at the top right of this app, which would be laughably out of reach for right handed users on any device larger than an iphone 5. Hopefully it doesn't serve a critical function such that a user would regularly want to click on it. Or, even worse, imagine if the only interactive part of the dropdown up top was the chevron icon! The Web Content Accessibility Guidelines (WCAG) don't yet have any success criteria for hand reach, but we do have \[success criteria for touch target size](https://www.w3.org/WAI/WCAG21/Understanding/target-size.html).
 
 ![](/images/buddy-ios-14.png)
 
