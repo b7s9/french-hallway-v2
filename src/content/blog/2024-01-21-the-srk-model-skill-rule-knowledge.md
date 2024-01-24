@@ -29,7 +29,11 @@ For instance, consider the cog menu button at the top right of this app, which w
 
 ### Rule
 
-The following example from Cake Equity is a pattern that I like in physical products like hardware synthesizers, but doesn't feel intuitive in a digital UI setting. The pattern that I and most users are accustomed to is that a switch on a website represents a single idea as being on or off. The "Simulate conversion" switch tries to represent two mutually exclusive ideas, but the visual representation communicates on or off. 
+The following example of switch design is a pattern that I like in physical products like hardware synthesizers, such as the Korg Minilogue:
+
+![korg minilogue switches](/images/korg-minilogue-switches.jpg)
+
+...but doesn't feel intuitive in a digital UI setting. The pattern that I and most users are accustomed to is that a switch on a website represents a single idea as being on or off. The "Simulate conversion" switch tries to represent two mutually exclusive ideas, but the visual representation communicates on or off. 
 
 ![Cake Equity Two way labeled Switches](/images/cake-equity-web-285.png)
 
