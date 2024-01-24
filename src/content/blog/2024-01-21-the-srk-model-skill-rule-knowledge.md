@@ -1,7 +1,7 @@
 ---
 title: "The SRK Model: Skill, Rule, Knowledge"
 description: A framework to understand and prevent use error in system designs
-pubDate: Jan 21 2024
+pubDate: Jan 23 2024
 ---
 The SRK (Skill, Rule, Knowledge) Framework was proposed by Jens Rasmussen in the 1980's as a branch of *Ecological Interface Design*. It is particularly useful for alarm and triage systems design ([3 mile island](https://en.wikipedia.org/wiki/Three_Mile_Island_accident) is common case study when learning this framework in a Human Factors Engineering class), but is a valuable consideration in any system design.
 
