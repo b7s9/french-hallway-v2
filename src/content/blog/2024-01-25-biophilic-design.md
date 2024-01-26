@@ -3,6 +3,8 @@ title: Biophilic Design
 description: Inviting nature into the design process, for more human places
 pubDate: Jan 25 2024
 ---
+*This article is a stub, and will be completed later*
+
 For the past few years I've been fascinated by Biophilic Design as defined by these authors:
 
 - [The Practice of Biophilic Design](https://www.biophilic-design.com/) - Stephen R. Kellert & Elizabeth F. Calabrese​
