@@ -4,6 +4,10 @@ description: A first attempt at categorizing types of groups to help people
   re-enter social spaces
 pubDate: Jan 31 2024
 ---
+This is the first draft of a framework I have been working on for a few years, and will likely be refining for the rest of my life.
+
+The purpose is to help people with complex trauma backgrounds to enter/re-enter society. A question I frequently see on forums is that people feel like they have done enough personal emotional work to start making connections, but have no idea how to do so, or what to try. This framework is partly inspiration and partly a guide for how to join groups and evaluate them as to how they contribute to well-being. 
+
 ## Group Activity Types
 
 1. Individual craft (writing, photography)
